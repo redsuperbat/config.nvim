@@ -11,7 +11,10 @@ return {
           ".git",
           ".DS_Store",
         },
-        never_show = {},
+        never_show = {
+          ".git",
+          ".DS_Store",
+        },
       },
     },
   },
