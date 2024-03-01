@@ -37,6 +37,7 @@ return {
           "prisma-language-server",
           "graphql",
           "emmet_ls",
+          "marksman",
           "prismals",
           "pyright",
         },
