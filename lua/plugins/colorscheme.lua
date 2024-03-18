@@ -1,5 +1,4 @@
 return {
-  -- add gruvbox
   {
     "navarasu/onedark.nvim",
     config = function()
@@ -9,7 +8,6 @@ return {
     end,
   },
 
-  -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
