@@ -28,6 +28,7 @@ return {
           "javascript",
           "typescript",
           "tsx",
+          "terraform",
           "yaml",
           "html",
           "css",

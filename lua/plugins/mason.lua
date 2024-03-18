@@ -29,6 +29,7 @@ return {
           "tsserver",
           "html",
           "cssls",
+          "terraform-ls",
           "tailwindcss",
           "svelte",
           "lua_ls",
